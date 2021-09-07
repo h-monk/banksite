@@ -1,0 +1,23 @@
+body {
+    height: 2000px;
+  }
+.home-banner {
+    background-color: #000;
+    background-image: url(./imgs/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    font-size: 46px;
+    font-weight: 700;
+    color: #000;
+    line-height: 1.32;
+    margin-bottom: 18px;
+}
+.norcontent{
+    font-size: 18px;
+    max-width: 376px;
+    color: #757575;
+}
+
